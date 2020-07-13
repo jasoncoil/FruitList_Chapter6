@@ -1,0 +1,15 @@
+This file explains all files contained in Sample folder which contains all IntelliJ projects
+
+These files are the model view and controller for a grocery list app
+DESCRIPTION OF APPLICATION: The grocerylist app displays items on a list. The user can type in and add new items, or remove items currently on the list.
+
+MODEL:
+"ItemList"
+VIEW:
+"GroceryListView"
+CONTROLLER:
+"GroceryListApp"
+
+Testing Files:
+"GroceryListViewTestProgram" and "GroceryListViewTestProgram2" test the view portion of the application
+"ItemListTest" tests the outputs of different itemlists in order to locate possible bugs with adding or removing items
